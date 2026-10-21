@@ -27,3 +27,7 @@
 # 运行单元与集成自测套件
 ./openapi --self-test
 ```
+
+## 许可证
+
+MIT，详见 [LICENSE](./LICENSE)。

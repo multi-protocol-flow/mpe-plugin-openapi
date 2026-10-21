@@ -3,7 +3,8 @@ name = "mpe-plugin-openapi"
 version = "0.1.0"
 edition = "2021"
 description = "Swagger / OpenAPI datasource plugin for Multi-Protocol Flow Executor (MPE)"
-license = "MIT OR Apache-2.0"
+license = "MIT"
+repository = "https://github.com/multi-protocol-flow/mpe-plugin-openapi"
 
 [dependencies]
 mpe-plugin-sdk = { git = "https://github.com/multi-protocol-flow/mpe-plugin-sdk.git", tag = "v0.3.0", default-features = false }

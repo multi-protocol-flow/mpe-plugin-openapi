@@ -27,3 +27,7 @@ Swagger and OpenAPI datasource plugin for [Multi-Protocol Flow Executor (MPE)](h
 # Self-test mode
 ./openapi --self-test
 ```
+
+## License
+
+MIT — see [LICENSE](./LICENSE).
